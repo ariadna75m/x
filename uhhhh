@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a {
+color: hotpink;
+}
+</style>
+</head>
+<body>
+<p><b><a href="default.asp" target="_blank">https://www.usil.edu.pe/?verified=true</a></b></p>
+</body>
+</html>
+
+<head>
+<title>Page Title</title>
+
+<h1 
+style="background-color:Orange; text-align:center
+">Hello World</h1>
+<h2 
+style="border:2px solid Violet;">this is my first web page!!!!!11111111</h2>
+<p 
+style="color:red;">kwekwekwekwekwkewekwekw hola</p>
+<style>
+table {
+font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  }
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+</style>
+</head>
+<body>
+
+<h3>Tabla de cursos</h3>
+<table>
+  <tr>
+    <th>Curso</th> 
+    <th>Profesor</th>
+  </tr>
+  <tr>
+    <td>Introducción al cálculo</td>
+    <td>Maribel Bravo</td>
+  </tr>
+  <tr>
+    <td>Física General</td>
+    <td>Manuel Arredondo</td>
+  </tr>
+  <tr>
+    <td>Lenguaje</td>
+    <td>Carlos Capellino</td>
+  </tr>
+  <tr>
+    <td>Desarrollo Humano</td>
+    <td>Percy Madueño</td>
+  </tr>
+  <tr>
+    <td>Introducción al dibujo técnico</td>
+    <td>Guillermo Zevallos</td>
+  </tr>
+  <tr>
+    <td>Introducción a la Ingeniería de Software</td>
+    <td>Pedro Shiguihara</td>
+  </tr>
+  
+</table>
+</body>
